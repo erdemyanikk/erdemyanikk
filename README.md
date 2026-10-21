@@ -69,8 +69,8 @@ An ongoing Flutter migration of a book-reading and audio application, covering r
 
 | Project | Summary |
 |---|---|
-| **AISET — Sensor Monitoring** | .NET MAUI / C# mobile screens for MQTT-based sensor data monitoring, device selection, PostgreSQL and light/dark themes. |
-| **Bebek Takip** | Flutter mobile experience for recording feeding, sleep and diaper changes, with history and local/user data flows. |
+| **[AISET — Sensor Monitoring](projects/aiset.md)** | .NET MAUI / C# mobile screens for MQTT-based sensor data monitoring, device selection, PostgreSQL and light/dark themes. |
+| **[Bebek Takip](projects/bebek-takip.md)** | Flutter mobile experience for recording feeding, sleep and diaper changes, with history and local/user data flows. |
 | **[SmartNest](https://github.com/erdemyanikk/SmartNest.Mobile)** | Public .NET MAUI (Android) + ASP.NET Core API demo featuring JWT authentication, SQL Server and Firebase Cloud Messaging. [Mobile](https://github.com/erdemyanikk/SmartNest.Mobile) · [API](https://github.com/erdemyanikk/SmartNest.Api) |
 
 ## Engineering Interests
