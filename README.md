@@ -31,6 +31,8 @@ I work across mobile UI, REST API integrations and data flows—from authenticat
 
 ## Selected Work
 
+Explore detailed, CV-aligned case studies: [JetGel](projects/jetgel.md) · [Islamictoon](projects/islamictoon.md) · [Türbeler ve Evliyalar](projects/turbeler.md) · [GoFreeBooks](projects/gofreebooks.md)
+
 > Some applications are proprietary. The summaries below describe my development work without publishing my employer's source code.
 
 ### 🚚 JetGel — Logistics & Delivery
@@ -38,28 +40,30 @@ I work across mobile UI, REST API integrations and data flows—from authenticat
 
 A logistics platform for delivery, courier and wallet workflows. I worked on migrating and developing the mobile application in Flutter, including modular screens, state management, navigation, SMS authentication, token handling, location features and card/EFT wallet top-ups through PayTR. Also worked on mobile testing and store releases.
 
-**Status:** Available for Android and iOS · **Code:** Private / proprietary
+**Status:** Published on iOS and Android · **Code:** Private / proprietary · [Project details](projects/jetgel.md)
+
+[![App Store](https://img.shields.io/badge/App_Store-View_App-0D96F6?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/app/jetgel/id6762123502) [![Google Play](https://img.shields.io/badge/Google_Play-View_App-34A853?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=net.jetgel.app)
 
 ### 📚 Islamictoon — Reading & Audio Stories
 **.NET MAUI · C# · REST APIs · SQL**
 
 A digital reading and listening application. My work includes page/panel reading, reading progress, offline downloads, personal library flows, audio/background-sound coordination, caching/prefetch, performance improvements, iOS navigation fixes and reading analytics.
 
-**Code:** Private / proprietary
+**Code:** Private / proprietary · [Project details](projects/islamictoon.md)
 
 ### 🗺️ Türbeler ve Evliyalar — Discovery & Routes
 **Flutter · Dart · Riverpod · Google Maps · Firebase Messaging · ASP.NET Core API**
 
 A location-based mobile guide for discovering historical shrines across Türkiye. I developed discovery, details, maps, clustering, routes, city/district filters, favorites, permissions, notifications and mobile-to-API data flows.
 
-**Code:** Private / proprietary
+**Code:** Private / proprietary · [Project details](projects/turbeler.md)
 
 ### 📖 GoFreeBooks — Reading & Listening
 **Flutter · Dart · Riverpod · Feature-Based Architecture · Repository Pattern**
 
 An ongoing Flutter migration of a book-reading and audio application, covering reading, listening, downloads, library experience and API integrations.
 
-**Status:** In development · **Code:** Private / proprietary
+**Status:** In development · **Code:** Private / proprietary · [Project details](projects/gofreebooks.md)
 
 ## Other Projects
 
