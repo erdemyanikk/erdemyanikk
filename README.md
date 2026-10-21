@@ -1,54 +1,84 @@
-<h1 align="center">Erdem Yanık</h1>
-<h3 align="center">Mobile & .NET Developer</h3>
+<div align="center">
 
-<p align="center">
-  Building practical mobile applications and reliable backend services.
-</p>
+# Erdem Yanık
+### Mobile Developer · Flutter & Dart · Android / iOS
 
-<p align="center">
-  <a href="https://github.com/erdemyanikk">GitHub Profile</a>
-  ·
-  <a href="https://github.com/erdemyanikk?tab=repositories">Projects</a>
-</p>
+**Building production-oriented mobile experiences, integrated with dependable APIs.**
 
----
+[![GitHub](https://img.shields.io/badge/GitHub-erdemyanikk-181717?style=flat-square&logo=github)](https://github.com/erdemyanikk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Erdem%20Yan%C4%B1k-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/erdemyanikk/)
+[![Email](https://img.shields.io/badge/Email-Contact-555?style=flat-square&logo=gmail)](mailto:erdemyanikk15@gmail.com)
 
-### About Me
-
-I'm a software developer focused on **cross-platform mobile development** with **Flutter** and **.NET MAUI**, alongside backend development using **C#** and **ASP.NET Core**.
-
-My work includes building mobile interfaces, integrating REST APIs, implementing authentication and notifications, and maintaining applications used in real-world workflows. I enjoy writing understandable, maintainable code and connecting the mobile experience to dependable backend systems.
-
-### Tech Stack
-
-| Area | Technologies |
-| --- | --- |
-| **Mobile** | Flutter, Dart, .NET MAUI, Android, iOS |
-| **Backend** | C#, ASP.NET Core Web API, Entity Framework Core |
-| **Data** | SQL Server, SQL |
-| **Integrations** | Firebase Cloud Messaging, REST APIs, JWT |
-| **Tools** | Git, GitHub, Visual Studio, VS Code |
-
-### Featured Project
-
-#### [SmartNest — Mobile & API](https://github.com/erdemyanikk/SmartNest.Mobile)
-
-A mobile notification and messaging demo built with **.NET MAUI (Android)** and **ASP.NET Core Web API**. It includes SQL Server-backed authentication, JWT, Firebase Cloud Messaging, notification delivery, and sent-message management.
-
-- [Mobile application](https://github.com/erdemyanikk/SmartNest.Mobile)
-- [Backend API](https://github.com/erdemyanikk/SmartNest.Api)
-
-### What I Work On
-
-- Cross-platform mobile applications and API integrations
-- Backend services and relational databases
-- Authentication, payments and notification workflows
-- Debugging, performance improvements and maintainable architecture
-
-### Explore My Work
-
-See my [public repositories](https://github.com/erdemyanikk?tab=repositories) for mobile, backend and desktop projects.
+</div>
 
 ---
 
-<p align="center"><i>Building software that is useful, maintainable and ready to grow.</i></p>
+## About
+
+I'm a **mobile developer based in Istanbul, Türkiye**, focused on **Flutter / Dart** for Android and iOS, with hands-on experience in **.NET MAUI / C#** and **ASP.NET Core Web API**.
+
+I work across mobile UI, REST API integrations and data flows—from authentication, payments and maps to audio playback, offline content, performance and release processes. My work includes **TestFlight, App Store and Google Play** release activities.
+
+## Technologies
+
+| Focus | Stack |
+|---|---|
+| Mobile | **Flutter**, Dart, **.NET MAUI**, C#, Android, iOS |
+| Architecture & state | Riverpod, go_router, feature-based layered structure, Repository Pattern, dependency injection |
+| APIs & databases | ASP.NET Core Web API, EF Core, SQL Server, PostgreSQL, REST, JWT |
+| Integrations | Dio, Firebase, Google Maps, Geolocator, PayTR, WebView, MQTT, Hive |
+| Development & delivery | Git, GitHub, GitHub Actions, TestFlight, App Store Connect, Google Play Console |
+
+## Selected Work
+
+> Some applications are proprietary. The summaries below describe my development work without publishing my employer's source code.
+
+### 🚚 JetGel — Logistics & Delivery
+**Flutter · Dart · Riverpod · go_router · ASP.NET Core API · SQL · PayTR**
+
+A logistics platform for delivery, courier and wallet workflows. I worked on migrating and developing the mobile application in Flutter, including modular screens, state management, navigation, SMS authentication, token handling, location features and card/EFT wallet top-ups through PayTR. Also worked on mobile testing and store releases.
+
+**Status:** Available for Android and iOS · **Code:** Private / proprietary
+
+### 📚 Islamictoon — Reading & Audio Stories
+**.NET MAUI · C# · REST APIs · SQL**
+
+A digital reading and listening application. My work includes page/panel reading, reading progress, offline downloads, personal library flows, audio/background-sound coordination, caching/prefetch, performance improvements, iOS navigation fixes and reading analytics.
+
+**Code:** Private / proprietary
+
+### 🗺️ Türbeler ve Evliyalar — Discovery & Routes
+**Flutter · Dart · Riverpod · Google Maps · Firebase Messaging · ASP.NET Core API**
+
+A location-based mobile guide for discovering historical shrines across Türkiye. I developed discovery, details, maps, clustering, routes, city/district filters, favorites, permissions, notifications and mobile-to-API data flows.
+
+**Code:** Private / proprietary
+
+### 📖 GoFreeBooks — Reading & Listening
+**Flutter · Dart · Riverpod · Feature-Based Architecture · Repository Pattern**
+
+An ongoing Flutter migration of a book-reading and audio application, covering reading, listening, downloads, library experience and API integrations.
+
+**Status:** In development · **Code:** Private / proprietary
+
+## Other Projects
+
+| Project | Summary |
+|---|---|
+| **AISET — Sensor Monitoring** | .NET MAUI / C# mobile screens for MQTT-based sensor data monitoring, device selection, PostgreSQL and light/dark themes. |
+| **Bebek Takip** | Flutter mobile experience for recording feeding, sleep and diaper changes, with history and local/user data flows. |
+| **[SmartNest](https://github.com/erdemyanikk/SmartNest.Mobile)** | Public .NET MAUI (Android) + ASP.NET Core API demo featuring JWT authentication, SQL Server and Firebase Cloud Messaging. [Mobile](https://github.com/erdemyanikk/SmartNest.Mobile) · [API](https://github.com/erdemyanikk/SmartNest.Api) |
+
+## Engineering Interests
+
+Mobile architecture · Maintainable code · API design · Offline-first user experiences · Performance optimization · CI/CD
+
+---
+
+<div align="center">
+
+**Open to Mobile Developer opportunities**
+
+[LinkedIn](https://www.linkedin.com/in/erdemyanikk/) · [Public GitHub Projects](https://github.com/erdemyanikk?tab=repositories) · [Email](mailto:erdemyanikk15@gmail.com)
+
+</div>
